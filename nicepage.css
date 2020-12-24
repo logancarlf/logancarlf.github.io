@@ -31259,13 +31259,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-right: 390px;
-    margin-left: 101px;
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: auto;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-text-1 {
     margin-right: 222px;
+    margin-bottom: 60px;
     margin-left: 89px;
   }
 }
