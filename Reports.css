@@ -45,7 +45,6 @@
   grid-template-rows: auto auto auto;
   grid-template-columns: 100%;
   grid-gap: 0px 0px;
-  height: auto;
   margin: 89px auto 0 89px;
 }
 
@@ -164,6 +163,7 @@
 
   .u-section-2 .u-list-1 {
     width: 940px;
+    height: auto;
     margin-left: 0;
   }
 
